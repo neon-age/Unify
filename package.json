@@ -1,0 +1,16 @@
+{
+  "displayName": "Unify",
+  "name": "com.av.unify",
+  "version": "0.1.0",
+  "unity": "2023.3",
+  "description": "Fix Unity.",
+  "keywords": [
+    "ui",
+    "ux",
+    "tools",
+    "fixes",
+    "bugs"
+  ],
+  "category": "Libraries",
+  "dependencies": {}
+}
